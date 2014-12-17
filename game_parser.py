@@ -33,7 +33,7 @@ def get():
 		text=engine.stdout.readline().strip()
 		if text == 'readyok':
 			break
-		if text != ""
+		if text != "":
 			print('\t' + text)
 
 def run_game(moves):
