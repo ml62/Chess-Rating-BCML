@@ -17,3 +17,7 @@ How to implement multipv? GUI? Mac vs Windows?
 
 
 2/17/2014
+Parsing not currently working - wrote basic code to input to engine and read outputs 
+Built algorithm to find optimal parameters for a given player
+How to extrapolate parameters into the elo rating?
+
